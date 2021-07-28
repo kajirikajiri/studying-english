@@ -150,3 +150,92 @@ embedded: 埋め込み。組み込み。どうし。
 
 ---
 
+ECMAScript is based on several originating technologies, the most well-known being JavaScript (Netscape) and JScript (Microsoft).
+
+several: いくつかの。形容詞。
+originating: 発信。名詞。DeepLだと起源となる。
+
+ECMAScriptはいくつかのテクノロジーをベースにしており、もっともよく知られているのはJavaScript(Netscape)とJScript(Microsoft)です。
+
+DeepL: ECMAScriptは、JavaScript（Netscape）やJScript（Microsoft）をはじめとするいくつかの技術をベースにしています。
+
+いや、頑張ればなるけど、難しいね。
+beingってなんだと思ったけどはじめとするか。
+most well-known消えてない？？
+
+---
+
+The language was invented by Brendan Eich at Netscape and first appeared in that company's Navigator 2.0 browser.
+
+invented: 発明された。形容詞?
+appeared: 登場。
+
+NetscapeのBrendan Eichによって発明され、Navigator 2.0 browserで初めて登場しました。
+
+DeepL: この言語は、Netscape社のBrendan Eich氏が考案したもので、同社のNavigator 2.0ブラウザに初めて搭載されました。
+
+うーんなんか抜きすぎたな。この言語はと同社のが必要だし、搭載だし、考案か。
+
+---
+
+It has appeared in all subsequent browsers from Netscape and in all browsers from Microsoft starting with Internet Explorer 3.0.
+
+subsequent: 後続の、以降の。形容詞。
+
+Netscape社の後続の全てのブラウザとMicrosoftのInternet Explorer 3.0をはじめとする全てのブラウザに搭載されています。
+
+DeepL: Netscape以降のすべてのブラウザと、MicrosoftのInternet Explorer 3.0以降のすべてのブラウザに搭載されています。
+
+うーん、in allが以降のなのかな？
+
+---
+
+The development of the ECMAScript Language Specification started in November 1996. The first edition of this Ecma Standard was adopted by the Ecma General Assembly of June 1997.
+
+ECMAScript言語仕様書の開発は1996年11月に始まりました。初版となるEcma Standardは1997年6月にEcma General Assemblyで採用されました。
+
+DeepL: ECMAScript言語仕様の開発は、1996年11月に開始されました。このEcma規格の初版は、1997年6月のEcma総会で採択されました。
+
+みす。
+
+このEcma Standardの初版はだな。
+Standardは規格なのか。General Assemblyは総会。
+
+---
+
+That Ecma Standard was submitted to ISO/IEC JTC 1 for adoption under the fast-track procedure, and approved as international standard ISO/IEC 16262, in April 1998.
+
+adoption: 可決。どうし。採択。
+submitted: 提出された。形容詞。
+procedure: 手順
+
+Ecma規格はfast-track手順によって可決され、ISO/IEC JTC 1に提出され、1998年４月にinternational standard ISO/IEC/16262に許可されました。
+
+DeepL: このEcma規格は、ISO/IEC JTC 1に提出され、ファストトラック方式で採択され、1998年4月に国際規格ISO/IEC 16262として承認されました。
+
+approved: 承認された。形容詞。
+
+順番が違うな。ISO/IEC JTC 1に提出され、fast-track方式で採択され。か。
+
+forがなー。
+
+google: そのEcma規格は、ファストトラック手順で採用するためにISO / IEC JTC 1に提出され、1998年4月に国際規格ISO / IEC16262として承認されました。
+
+ためになのね。for。てことは前置詞。
+
+google翻訳にならできそうなんだけど、DeepLにできない。頭の中が無理。
+最後に承認されたっていう事実を反映したから採択されになるんじゃないの？
+
+ためにならわかるけど、されたじゃ意味違くない？
+
+でも採択されだしな。
+
+採用するために提出され、承認されたなら、
+提出され、採択され、承認された
+もわかる。
+いやむずいな。それでもむずい。
+見せて承認されたってことは間で採択されているわけだから、いやーむずい。
+
+---
+
+The Ecma General Assembly of June 1998 approved the second edition of ECMA-262 to keep it fully aligned with ISO/IEC 16262. Changes between the first and the second edition are editorial in nature.
